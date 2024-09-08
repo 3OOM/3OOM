@@ -15,6 +15,5 @@ Hi there! 👋<br>I’m Abhishek, a passionate fresher with a Master’s degree 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3OOM&icon=2&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
